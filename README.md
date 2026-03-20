@@ -5,6 +5,14 @@
 > **UE :** INF222 – Développement Backend – Université de Yaoundé 1  
 > **Technologies :** Node.js · Express.js · MongoDB · Mongoose · Swagger
 
+## 🚀 Liens de production
+
+| Ressource | URL |
+|-----------|-----|
+| **API en ligne** | https://blog-api-08b7.onrender.com |
+| **Documentation Swagger** | https://blog-api-08b7.onrender.com/api-docs |
+| **Dépôt GitHub** | https://github.com/mbakopyves/blog-api |
+
 ---
 
 ## Table des matières
@@ -69,7 +77,7 @@ blog-api/
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/[votre-username]/blog-api.git
+git clone https://github.com/mbakopyves/blog-api.git
 cd blog-api
 
 # 2. Installer les dépendances
@@ -245,3 +253,10 @@ La documentation Swagger sera à :
 - Gestionnaire d'erreurs global dans `app.js`
 - Variables d'environnement via `.env` (jamais de secrets dans le code)
 - Documentation complète via Swagger/OpenAPI 3.0
+
+---
+
+## Licence
+
+Ce projet est réalisé dans le cadre du cours **INF222 – Développement Backend** à l'Université de Yaoundé 1.  
+Libre d'utilisation à des fins éducatives.
